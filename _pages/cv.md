@@ -44,7 +44,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-  {% if post.type == "X" or post.type == "X" or post.type == "X" %}
+  {% if post.type == "books" or post.type == "articles" or post.type == "theses" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}</ul>
