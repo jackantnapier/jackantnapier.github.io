@@ -7,5 +7,5 @@ excerpt: "This paper is about the issues pertaining in the EU's approach to Hung
 date: 2023-12-04
 venue: 'Unpublished, New York University'
 paperurl: 'https://jacknapier.github.io/files/media-censorship.pdf'
-citation: "Napier, J. (2023). &quot;Media Censorship in Orbán's Hungary: A Failure of Brussels.&quot; <i>Unpublished</i>."
+citation: "Napier, J. (2023). &quot;Media Censorship in Orbán's Hungary: A Failure of Brussels&quot;. <i>Unpublished</i>."
 ---
