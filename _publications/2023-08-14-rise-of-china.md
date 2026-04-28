@@ -7,5 +7,5 @@ excerpt: 'This paper is about the extent to which the rise of China in internati
 date: 2023-08-14
 venue: 'Unpublished, University of Cambridge'
 paperurl: 'https://jacknapier.github.io/files/rise-of-china.pdf'
-citation: 'Napier, J. (2023). &quot;The Rise of China as a Mediator: A Threat to Western Mediation Norms?&quot; <i>Unpublished</i>.'
+citation: 'Napier, J. (2023). &quot;The Rise of China as a Mediator: A Threat to Western Mediation Norms?&quot;. <i>Unpublished</i>.'
 ---
