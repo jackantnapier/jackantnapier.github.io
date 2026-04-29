@@ -5,6 +5,11 @@ var addressPoints = [
     0.1391537
   ],
   [
+    "Balibar and Wallerstein on Race, Ethnicity and Class<br />Pembroke College, University of Cambridge; Cambridge, England, UK",
+    52.1975846,
+    0.1391537
+  ],
+  [
     "When the Left Speaks Like the Right (Paper Presentation)<br />The Migration Conference 2026, Bratislava University of Economics and Business; Bratislava, Bratislavsk\u00fd kraj, Slovakia",
     48.1516988,
     17.1093063
